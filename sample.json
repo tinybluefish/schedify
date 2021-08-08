@@ -1,0 +1,5083 @@
+
+{
+ "rows": [
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Acro (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206964&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 400,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Jazz/Tap Combo (2nd to 4th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206631&loc=",
+   "openings": {
+    "calculated_openings": 14,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "12:15",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Jazz/Tap Combo (K - 2nd grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207056&loc=",
+   "openings": {
+    "calculated_openings": 14,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "11:00",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (1st to 2nd grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205948&loc=",
+   "openings": {
+    "calculated_openings": 11,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (Kindergarten to 1st grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205936&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (Kindergarten to 1st grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206646&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop/Acro (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206863&loc=",
+   "openings": {
+    "calculated_openings": 17,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop/Acro (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205822&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Jazz/Tap Combo (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206609&loc=",
+   "openings": {
+    "calculated_openings": 13,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "20:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Lyrical/Contemporary (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206716&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "19:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "19:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Lyrical/Contemporary High School",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206659&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13165940&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 2590,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn and Leap (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206756&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn and Leap (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206937&loc=",
+   "openings": {
+    "calculated_openings": 20,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn Leap and Acro (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13277294&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  }
+ ],
+ "success": true,
+ "message": "Class listings returned successfully!"
+}
+{
+ "rows": [
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Acro (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206964&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 400,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Adult",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-11-17",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Adult Tap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13252855&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-15",
+   "start_time": "18:30",
+   "tuition": {
+    "fee": 200,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "13:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet Elite Team",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207036&loc=",
+   "openings": {
+    "calculated_openings": 11,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "12:00",
+   "tuition": {
+    "fee": 0,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "15:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet II (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205506&loc=",
+   "openings": {
+    "calculated_openings": 14,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 2065,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet III (4th to 6th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205554&loc=",
+   "openings": {
+    "calculated_openings": 8,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 2065,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet IVA (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206178&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 3700,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "10:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet IVA (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207001&loc=",
+   "openings": {
+    "calculated_openings": 12,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "09:00",
+   "tuition": {
+    "fee": 0,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "18:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet IVB (Meets 2x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206459&loc=",
+   "openings": {
+    "calculated_openings": 5,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "17:30",
+   "tuition": {
+    "fee": 2581,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet V (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206529&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 0,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-31",
+   "end_time": "21:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet V (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206540&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "19:30",
+   "tuition": {
+    "fee": 3700,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "12:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet V/VI",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207019&loc=",
+   "openings": {
+    "calculated_openings": 6,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "10:30",
+   "tuition": {
+    "fee": 0,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-31",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet VI (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206493&loc=",
+   "openings": {
+    "calculated_openings": 5,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 3700,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Ballet",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "21:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet VI (Meets 3x/week)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206510&loc=",
+   "openings": {
+    "calculated_openings": 6,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "19:30",
+   "tuition": {
+    "fee": 0,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Jazz/Tap Combo (2nd to 4th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206631&loc=",
+   "openings": {
+    "calculated_openings": 14,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "12:15",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Jazz/Tap Combo (K - 2nd grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207056&loc=",
+   "openings": {
+    "calculated_openings": 14,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "11:00",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (1st to 2nd grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205948&loc=",
+   "openings": {
+    "calculated_openings": 11,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (Kindergarten to 1st grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205936&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Ballet/Tap Combo (Kindergarten to 1st grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206646&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Adult",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-11-17",
+   "end_time": "10:15",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Boxing Fitness",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13278690&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-15",
+   "start_time": "09:15",
+   "tuition": {
+    "fee": 200,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-14",
+   "end_time": "11:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Creative 2's",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13253122&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-10",
+   "start_time": "11:00",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Elite Team Classes",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207122&loc=",
+   "openings": {
+    "calculated_openings": 1,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "14:00",
+   "tuition": {
+    "fee": 1495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-11",
+   "end_time": "14:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap  (Ages 3-5) Half Year Fall",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206117&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-14",
+   "start_time": "14:00",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-31",
+   "end_time": "14:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Full Year",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206092&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "14:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "14:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Full Year",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206734&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "14:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "14:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Full Year",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206560&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "13:15",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "15:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Full Year",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206568&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "15:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-13",
+   "end_time": "14:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206743&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-09",
+   "start_time": "14:00",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-12",
+   "end_time": "15:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206576&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-08",
+   "start_time": "15:00",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-12",
+   "end_time": "14:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206589&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-08",
+   "start_time": "13:15",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "10:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet/Tap Full Year",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207135&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "10:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-01-15",
+   "end_time": "10:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Enchanted Ballet/Tap Half Year Fall",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207149&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Half Year Fall 2021",
+   "start_date": "2021-09-11",
+   "start_time": "10:00",
+   "tuition": {
+    "fee": 495,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Hip Hop",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "19:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206686&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Hip Hop",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "20:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop High School",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206704&loc=",
+   "openings": {
+    "calculated_openings": 13,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "19:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop/Acro (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206863&loc=",
+   "openings": {
+    "calculated_openings": 17,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Hip Hop/Acro (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205822&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Jazz",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "19:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Jazz (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205959&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Jazz/Tap Combo (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206609&loc=",
+   "openings": {
+    "calculated_openings": 13,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Camp",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-08-20",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": true,
+    "wed": true,
+    "thu": true,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Bootcamp",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=12645265&loc=",
+   "openings": {
+    "calculated_openings": 12,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "",
+   "session": "Summer 2021",
+   "start_date": "2021-08-09",
+   "start_time": "09:30",
+   "tuition": {
+    "fee": 950,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "12:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Contemporary",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207075&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "11:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Jazz/Lyrical",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13253066&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "17:30",
+   "tuition": {
+    "fee": 1790,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Jazz/Lyrical",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206199&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "17:30",
+   "tuition": {
+    "fee": 1790,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Tap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206918&loc=",
+   "openings": {
+    "calculated_openings": 12,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Junior Team Turn and Leap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206925&loc=",
+   "openings": {
+    "calculated_openings": 12,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Lyrical Jazz",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-31",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Lyrical Jazz (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13252400&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "20:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Lyrical/Contemporary (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206716&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "19:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "19:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Lyrical/Contemporary High School",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206659&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Mini Team Jazz/Tap (3rd to 4th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205850&loc=",
+   "openings": {
+    "calculated_openings": 5,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "15:45",
+   "tuition": {
+    "fee": 2190,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Camp",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-08-27",
+   "end_time": "13:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": true,
+    "wed": true,
+    "thu": true,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Nutcracker Preparation Camp",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=12784963&loc=",
+   "openings": {
+    "calculated_openings": 17,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "",
+   "session": "Summer 2021",
+   "start_date": "2021-08-23",
+   "start_time": "09:00",
+   "tuition": {
+    "fee": 400,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Performance Team Contemporary/Jazz",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206232&loc=",
+   "openings": {
+    "calculated_openings": 6,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "16:30",
+   "tuition": {
+    "fee": 1790,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-01",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": true,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Petite Team Jazz/Tap (5th to 6th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205638&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-08",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 1790,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Petite Team Turn and Leap (5th to 6th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206904&loc=",
+   "openings": {
+    "calculated_openings": 10,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "17:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13165940&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 2590,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "PreSchool",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "15:45",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Preschool Hip Hop",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206882&loc=",
+   "openings": {
+    "calculated_openings": 18,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "15:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Camp",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-08-20",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": true,
+    "wed": true,
+    "thu": true,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Senior Company Bootcamp",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=12645230&loc=",
+   "openings": {
+    "calculated_openings": 4,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "",
+   "session": "Summer 2021",
+   "start_date": "2021-08-09",
+   "start_time": "09:30",
+   "tuition": {
+    "fee": 950,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "20:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Senior Company Contemporary",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206222&loc=",
+   "openings": {
+    "calculated_openings": 2,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "19:30",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Senior Company Jazz",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206817&loc=",
+   "openings": {
+    "calculated_openings": 7,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "18:30",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Senior Company Turn and Leap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205725&loc=",
+   "openings": {
+    "calculated_openings": 5,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Tap",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Senior Tap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205756&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Tap",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "17:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Tap (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206895&loc=",
+   "openings": {
+    "calculated_openings": 17,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "16:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Tap",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "20:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Tap (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206056&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 1",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "19:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Camp",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2021-08-20",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": true,
+    "wed": true,
+    "thu": true,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Company Bootcamp",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=12645256&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "",
+   "session": "Summer 2021",
+   "start_date": "2021-08-09",
+   "start_time": "09:30",
+   "tuition": {
+    "fee": 950,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": true,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Company Contemporary",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206207&loc=",
+   "openings": {
+    "calculated_openings": 4,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 3",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-14",
+   "start_time": "18:30",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "20:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Company Jazz",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206833&loc=",
+   "openings": {
+    "calculated_openings": 9,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "19:30",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-04",
+   "end_time": "13:15",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": true,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Company Modern/Improv",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13207100&loc=",
+   "openings": {
+    "calculated_openings": 20,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-11",
+   "start_time": "12:15",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Competition Team",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "19:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Company Turn and Leap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205881&loc=",
+   "openings": {
+    "calculated_openings": 8,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "18:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Tap",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-05-23",
+   "end_time": "20:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": true,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Teen Tap",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13205898&loc=",
+   "openings": {
+    "calculated_openings": 12,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-13",
+   "start_time": "19:30",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-02",
+   "end_time": "16:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": true,
+    "fri": false,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn and Leap (3rd to 5th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206756&loc=",
+   "openings": {
+    "calculated_openings": 15,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-09",
+   "start_time": "14:45",
+   "tuition": {
+    "fee": 1095,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:00",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn and Leap (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13206937&loc=",
+   "openings": {
+    "calculated_openings": 20,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 895,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  },
+  {
+   "category1": "Combo",
+   "category2": "",
+   "category3": "",
+   "description": "",
+   "end_date": "2022-06-03",
+   "end_time": "18:30",
+   "gender": "All",
+   "instructors": [],
+   "location": "Main",
+   "location_code": "Main",
+   "location_name": "Main",
+   "master_class": false,
+   "max_age": "",
+   "meeting_days": {
+    "mon": false,
+    "tue": false,
+    "wed": false,
+    "thu": false,
+    "fri": true,
+    "sat": false,
+    "sun": false
+   },
+   "min_age": "",
+   "name": "Turn Leap and Acro (5th to 8th grade)",
+   "online_reg_link": "https://app.jackrabbitclass.com/reg.asp?id=520467&hc=&initEmpty=&hdrColor=&WL=0&preLoadClassID=13277294&loc=",
+   "openings": {
+    "calculated_openings": 19,
+    "days": {
+     "mon": 0,
+     "tue": 0,
+     "wed": 0,
+     "thu": 0,
+     "fri": 0,
+     "sat": 0,
+     "sun": 0
+    }
+   },
+   "reg_start_date": "",
+   "room": "Studio 2",
+   "session": "Full Year 2021-2022",
+   "start_date": "2021-09-10",
+   "start_time": "17:00",
+   "tuition": {
+    "fee": 1295,
+    "days": {
+     "day_2": 0,
+     "day_3": 0,
+     "day_4": 0,
+     "day_5": 0,
+     "day_6": 0,
+     "day_7": 0
+    }
+   }
+  }
+ ],
+ "success": true,
+ "message": "Class listings returned successfully!"
+}
+DEBUG: FullCalendar json
+[
+ {
+  "title": "Combo::Acro (5th to 8th grade)",
+  "start": "2021-09-12T18:00",
+  "end": "2021-09-12T18:30"
+ },
+ {
+  "title": "Combo::Ballet/Jazz/Tap Combo (2nd to 4th grade)",
+  "start": "2021-09-10T16:00",
+  "end": "2021-09-10T17:30"
+ },
+ {
+  "title": "Combo::Ballet/Jazz/Tap Combo (K - 2nd grade)",
+  "start": "2021-09-13T11:00",
+  "end": "2021-09-13T12:15"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (1st to 2nd grade)",
+  "start": "2021-09-08T17:00",
+  "end": "2021-09-08T18:00"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (Kindergarten to 1st grade)",
+  "start": "2021-09-08T16:00",
+  "end": "2021-09-08T17:00"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (Kindergarten to 1st grade)",
+  "start": "2021-09-10T17:00",
+  "end": "2021-09-10T18:00"
+ },
+ {
+  "title": "Combo::Hip Hop/Acro (3rd to 5th grade)",
+  "start": "2021-09-12T14:45",
+  "end": "2021-09-12T16:00"
+ },
+ {
+  "title": "Combo::Hip Hop/Acro (3rd to 5th grade)",
+  "start": "2021-09-08T14:45",
+  "end": "2021-09-08T16:00"
+ },
+ {
+  "title": "Combo::Jazz/Tap Combo (3rd to 5th grade)",
+  "start": "2021-09-10T14:45",
+  "end": "2021-09-10T16:00"
+ },
+ {
+  "title": "Combo::Lyrical/Contemporary (5th to 8th grade)",
+  "start": "2021-09-10T19:00",
+  "end": "2021-09-10T20:00"
+ },
+ {
+  "title": "Combo::Lyrical/Contemporary High School",
+  "start": "2021-09-10T18:00",
+  "end": "2021-09-10T19:00"
+ },
+ {
+  "title": "Combo::Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+  "start": "2021-09-09T16:00",
+  "end": "2021-09-09T17:30"
+ },
+ {
+  "title": "Combo::Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+  "start": "2021-09-11T16:00",
+  "end": "2021-09-11T17:30"
+ },
+ {
+  "title": "Combo::Turn and Leap (3rd to 5th grade)",
+  "start": "2021-09-11T14:45",
+  "end": "2021-09-11T16:00"
+ },
+ {
+  "title": "Combo::Turn and Leap (5th to 8th grade)",
+  "start": "2021-09-12T17:00",
+  "end": "2021-09-12T18:00"
+ },
+ {
+  "title": "Combo::Turn Leap and Acro (5th to 8th grade)",
+  "start": "2021-09-12T17:00",
+  "end": "2021-09-12T18:30"
+ }
+]
+[
+ {
+  "title": "Combo::Acro (5th to 8th grade)",
+  "start": "2021-09-12T18:00",
+  "end": "2021-09-12T18:30"
+ },
+ {
+  "title": "Adult::Adult Tap",
+  "start": "2021-09-10T18:30",
+  "end": "2021-09-10T19:30"
+ },
+ {
+  "title": "Ballet::Ballet Elite Team",
+  "start": "2021-09-13T12:00",
+  "end": "2021-09-13T13:30"
+ },
+ {
+  "title": "Ballet::Ballet II (3rd to 5th grade)",
+  "start": "2021-09-08T14:45",
+  "end": "2021-09-08T15:45"
+ },
+ {
+  "title": "Ballet::Ballet II (3rd to 5th grade)",
+  "start": "2021-09-10T14:45",
+  "end": "2021-09-10T15:45"
+ },
+ {
+  "title": "Ballet::Ballet III (4th to 6th grade)",
+  "start": "2021-09-08T16:00",
+  "end": "2021-09-08T17:00"
+ },
+ {
+  "title": "Ballet::Ballet III (4th to 6th grade)",
+  "start": "2021-09-10T16:00",
+  "end": "2021-09-10T17:00"
+ },
+ {
+  "title": "Ballet::Ballet IVA (Meets 3x/week)",
+  "start": "2021-09-09T16:00",
+  "end": "2021-09-09T17:30"
+ },
+ {
+  "title": "Ballet::Ballet IVA (Meets 3x/week)",
+  "start": "2021-09-11T16:00",
+  "end": "2021-09-11T17:30"
+ },
+ {
+  "title": "Ballet::Ballet IVA (Meets 3x/week)",
+  "start": "2021-09-13T09:00",
+  "end": "2021-09-13T10:30"
+ },
+ {
+  "title": "Ballet::Ballet IVB (Meets 2x/week)",
+  "start": "2021-09-09T17:30",
+  "end": "2021-09-09T18:45"
+ },
+ {
+  "title": "Ballet::Ballet IVB (Meets 2x/week)",
+  "start": "2021-09-11T17:30",
+  "end": "2021-09-11T18:45"
+ },
+ {
+  "title": "Ballet::Ballet V (Meets 3x/week)",
+  "start": "2021-09-11T18:00",
+  "end": "2021-09-11T19:30"
+ },
+ {
+  "title": "Ballet::Ballet V (Meets 3x/week)",
+  "start": "2021-09-09T19:30",
+  "end": "2021-09-09T21:00"
+ },
+ {
+  "title": "Ballet::Ballet V/VI",
+  "start": "2021-09-13T10:30",
+  "end": "2021-09-13T12:00"
+ },
+ {
+  "title": "Ballet::Ballet VI (Meets 3x/week)",
+  "start": "2021-09-09T18:00",
+  "end": "2021-09-09T19:30"
+ },
+ {
+  "title": "Ballet::Ballet VI (Meets 3x/week)",
+  "start": "2021-09-11T19:30",
+  "end": "2021-09-11T21:00"
+ },
+ {
+  "title": "Combo::Ballet/Jazz/Tap Combo (2nd to 4th grade)",
+  "start": "2021-09-10T16:00",
+  "end": "2021-09-10T17:30"
+ },
+ {
+  "title": "Combo::Ballet/Jazz/Tap Combo (K - 2nd grade)",
+  "start": "2021-09-13T11:00",
+  "end": "2021-09-13T12:15"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (1st to 2nd grade)",
+  "start": "2021-09-08T17:00",
+  "end": "2021-09-08T18:00"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (Kindergarten to 1st grade)",
+  "start": "2021-09-08T16:00",
+  "end": "2021-09-08T17:00"
+ },
+ {
+  "title": "Combo::Ballet/Tap Combo (Kindergarten to 1st grade)",
+  "start": "2021-09-10T17:00",
+  "end": "2021-09-10T18:00"
+ },
+ {
+  "title": "Adult::Boxing Fitness",
+  "start": "2021-09-10T09:15",
+  "end": "2021-09-10T10:15"
+ },
+ {
+  "title": "PreSchool::Creative 2's",
+  "start": "2021-09-12T11:00",
+  "end": "2021-09-12T11:45"
+ },
+ {
+  "title": "Competition Team::Elite Team Classes",
+  "start": "2021-09-13T14:00",
+  "end": "2021-09-13T16:00"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap  (Ages 3-5) Half Year Fall",
+  "start": "2021-09-09T14:00",
+  "end": "2021-09-09T14:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Full Year",
+  "start": "2021-09-09T14:00",
+  "end": "2021-09-09T14:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Full Year",
+  "start": "2021-09-11T14:00",
+  "end": "2021-09-11T14:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Full Year",
+  "start": "2021-09-10T13:15",
+  "end": "2021-09-10T14:00"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Full Year",
+  "start": "2021-09-10T15:00",
+  "end": "2021-09-10T15:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+  "start": "2021-09-11T14:00",
+  "end": "2021-09-11T14:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+  "start": "2021-09-10T15:00",
+  "end": "2021-09-10T15:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet /Tap (Ages 3-5) Half Year Fall",
+  "start": "2021-09-10T13:15",
+  "end": "2021-09-10T14:00"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet/Tap Full Year",
+  "start": "2021-09-13T10:00",
+  "end": "2021-09-13T10:45"
+ },
+ {
+  "title": "PreSchool::Enchanted Ballet/Tap Half Year Fall",
+  "start": "2021-09-13T10:00",
+  "end": "2021-09-13T10:45"
+ },
+ {
+  "title": "Hip Hop::Hip Hop (5th to 8th grade)",
+  "start": "2021-09-10T18:00",
+  "end": "2021-09-10T19:00"
+ },
+ {
+  "title": "Hip Hop::Hip Hop High School",
+  "start": "2021-09-10T19:00",
+  "end": "2021-09-10T20:00"
+ },
+ {
+  "title": "Combo::Hip Hop/Acro (3rd to 5th grade)",
+  "start": "2021-09-12T14:45",
+  "end": "2021-09-12T16:00"
+ },
+ {
+  "title": "Combo::Hip Hop/Acro (3rd to 5th grade)",
+  "start": "2021-09-08T14:45",
+  "end": "2021-09-08T16:00"
+ },
+ {
+  "title": "Jazz::Jazz (5th to 8th grade)",
+  "start": "2021-09-08T18:00",
+  "end": "2021-09-08T19:00"
+ },
+ {
+  "title": "Combo::Jazz/Tap Combo (3rd to 5th grade)",
+  "start": "2021-09-10T14:45",
+  "end": "2021-09-10T16:00"
+ },
+ {
+  "title": "Competition Team::Junior Team Contemporary",
+  "start": "2021-09-13T11:00",
+  "end": "2021-09-13T12:00"
+ },
+ {
+  "title": "Competition Team::Junior Team Jazz/Lyrical",
+  "start": "2021-09-11T17:30",
+  "end": "2021-09-11T18:30"
+ },
+ {
+  "title": "Competition Team::Junior Team Jazz/Lyrical",
+  "start": "2021-09-09T17:30",
+  "end": "2021-09-09T18:30"
+ },
+ {
+  "title": "Competition Team::Junior Team Tap",
+  "start": "2021-09-12T16:00",
+  "end": "2021-09-12T17:00"
+ },
+ {
+  "title": "Competition Team::Junior Team Turn and Leap",
+  "start": "2021-09-12T17:00",
+  "end": "2021-09-12T18:00"
+ },
+ {
+  "title": "Lyrical Jazz::Lyrical Jazz (3rd to 5th grade)",
+  "start": "2021-09-09T14:45",
+  "end": "2021-09-09T16:00"
+ },
+ {
+  "title": "Combo::Lyrical/Contemporary (5th to 8th grade)",
+  "start": "2021-09-10T19:00",
+  "end": "2021-09-10T20:00"
+ },
+ {
+  "title": "Combo::Lyrical/Contemporary High School",
+  "start": "2021-09-10T18:00",
+  "end": "2021-09-10T19:00"
+ },
+ {
+  "title": "Competition Team::Mini Team Jazz/Tap (3rd to 4th grade)",
+  "start": "2021-09-08T15:45",
+  "end": "2021-09-08T17:00"
+ },
+ {
+  "title": "Competition Team::Mini Team Jazz/Tap (3rd to 4th grade)",
+  "start": "2021-09-10T15:45",
+  "end": "2021-09-10T17:00"
+ },
+ {
+  "title": "Competition Team::Performance Team Contemporary/Jazz",
+  "start": "2021-09-09T16:30",
+  "end": "2021-09-09T17:30"
+ },
+ {
+  "title": "Competition Team::Performance Team Contemporary/Jazz",
+  "start": "2021-09-11T16:30",
+  "end": "2021-09-11T17:30"
+ },
+ {
+  "title": "Competition Team::Petite Team Jazz/Tap (5th to 6th grade)",
+  "start": "2021-09-08T17:00",
+  "end": "2021-09-08T18:00"
+ },
+ {
+  "title": "Competition Team::Petite Team Jazz/Tap (5th to 6th grade)",
+  "start": "2021-09-10T17:00",
+  "end": "2021-09-10T18:00"
+ },
+ {
+  "title": "Competition Team::Petite Team Turn and Leap (5th to 6th grade)",
+  "start": "2021-09-12T16:00",
+  "end": "2021-09-12T17:00"
+ },
+ {
+  "title": "Combo::Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+  "start": "2021-09-09T16:00",
+  "end": "2021-09-09T17:30"
+ },
+ {
+  "title": "Combo::Pre Team Ballet/Jazz/Tap (Placement by Director Only)",
+  "start": "2021-09-11T16:00",
+  "end": "2021-09-11T17:30"
+ },
+ {
+  "title": "PreSchool::Preschool Hip Hop",
+  "start": "2021-09-12T15:00",
+  "end": "2021-09-12T15:45"
+ },
+ {
+  "title": "Competition Team::Senior Company Contemporary",
+  "start": "2021-09-09T19:30",
+  "end": "2021-09-09T20:30"
+ },
+ {
+  "title": "Competition Team::Senior Company Jazz",
+  "start": "2021-09-11T18:30",
+  "end": "2021-09-11T19:30"
+ },
+ {
+  "title": "Competition Team::Senior Company Turn and Leap",
+  "start": "2021-09-08T18:00",
+  "end": "2021-09-08T19:30"
+ },
+ {
+  "title": "Tap::Senior Tap",
+  "start": "2021-09-08T17:00",
+  "end": "2021-09-08T18:00"
+ },
+ {
+  "title": "Tap::Tap (5th to 8th grade)",
+  "start": "2021-09-12T16:00",
+  "end": "2021-09-12T17:00"
+ },
+ {
+  "title": "Tap::Tap (5th to 8th grade)",
+  "start": "2021-09-08T19:00",
+  "end": "2021-09-08T20:00"
+ },
+ {
+  "title": "Competition Team::Teen Company Contemporary",
+  "start": "2021-09-09T18:30",
+  "end": "2021-09-09T19:30"
+ },
+ {
+  "title": "Competition Team::Teen Company Jazz",
+  "start": "2021-09-11T19:30",
+  "end": "2021-09-11T20:30"
+ },
+ {
+  "title": "Competition Team::Teen Company Modern/Improv",
+  "start": "2021-09-13T12:15",
+  "end": "2021-09-13T13:15"
+ },
+ {
+  "title": "Competition Team::Teen Company Turn and Leap",
+  "start": "2021-09-08T18:00",
+  "end": "2021-09-08T19:30"
+ },
+ {
+  "title": "Tap::Teen Tap",
+  "start": "2021-09-08T19:30",
+  "end": "2021-09-08T20:30"
+ },
+ {
+  "title": "Combo::Turn and Leap (3rd to 5th grade)",
+  "start": "2021-09-11T14:45",
+  "end": "2021-09-11T16:00"
+ },
+ {
+  "title": "Combo::Turn and Leap (5th to 8th grade)",
+  "start": "2021-09-12T17:00",
+  "end": "2021-09-12T18:00"
+ },
+ {
+  "title": "Combo::Turn Leap and Acro (5th to 8th grade)",
+  "start": "2021-09-12T17:00",
+  "end": "2021-09-12T18:30"
+ }
+]
