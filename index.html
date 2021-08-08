@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <link href='fullcalendar/main.css' rel='stylesheet' />
+    <script src='fullcalendar/main.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+
+        var jackRabbitApiUrl = 'https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJson'
+        var jackRabbitEventData = null
+        
+        function loadEvents(dataFromJackRabbit) {
+            console.log("called loadEvents")
+            var events = []
+            dataFromJackRabbit.rows.forEach(r => {
+                //console.log(r);
+                //console.log("Adding event: cat1=" + r.category1 + " start_date=" + r.start_date + " end_date=" + r.end_date + " r.start_time=" + r.start_time + " r.end_time=" + r.end_time);
+
+                var event = {}
+                event['title'] = r.category1
+                event['start'] = r.start_date + 'T' + r.start_time
+                event['end'] = r.end_date + 'T' + r.end_time
+
+                events.push(event)
+
+            });
+            return events
+        }
+
+        function loadDataFromJackRabbit(){
+            console.log("called loadDataFromJackRabbit")
+            $.post(jackRabbitApiUrl,
+                {
+                    orgid: "9209"
+                },
+                function(data, status){
+                    jackRabbitEventData = loadEvents(data);
+                    $('body').append('<pre>' + JSON.stringify(jackRabbitEventData, null, ' '))
+                }
+            );
+        }
+
+            // eventSources: [
+            //     loadDataFromJackRabbit()
+            // ]
+            //events: jackRabbitEventData
+
+        loadDataFromJackRabbit()
+
+        var calendarEl = document.getElementById('calendar');
+        console.log("creating calendar")
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: 'timeGridWeek',
+            initialDate: '2021-07-01',
+            // currentStart: '2021-07-01T08:00:00',
+            // activeStart: '2021-07-01T08:00:00',
+            headerToolbar: {
+              left: 'prev,next today',
+              center: 'title',
+              right: 'dayGridMonth,timeGridWeek,timeGridDay'
+            },
+            // views: {
+            //     timeGridWeek: {
+            //         type: 'timeGrid',
+            //         duration: { days: 5 },
+            //         buttonText: '5 day'
+            //     }
+            // },
+            events: [
+              {
+                title: 'All Day Event',
+                start: '2021-07-01'
+              },
+              {
+                title: 'All Day Event 2',
+                start: '2021-07-02'
+              }
+            ]
+        });
+        console.log("calendar created: " + calendar)
+
+        //function ( fetchInfo, successCallback, failureCallback ) { }
+
+
+
+
+
+
+
+                  // {
+                  //   title: 'Long Event',
+                  //   start: '2021-07-07',
+                  //   end: '2021-07-03'
+                  // },
+                  // {
+                  //   groupId: '999',
+                  //   title: 'Repeating Event',
+                  //   start: '2021-07-04T16:00:00'
+                  // },
+                  // {
+                  //   groupId: '999',
+                  //   title: 'Repeating Event',
+                  //   start: '2021-07-05T16:00:00'
+                  // },
+                  // {
+                  //   title: 'Conference',
+                  //   start: '2021-07-05',
+                  //   end: '2021-07-06'
+                  // },
+                  // {
+                  //   title: 'Meeting',
+                  //   start: '2021-07-07T10:30:00',
+                  //   end: '2021-07-07T12:30:00'
+                  // },
+                  // {
+                  //   title: 'Lunch',
+                  //   start: '2021-07-05T12:00:00'
+                  // },
+                  // {
+                  //   title: 'Meeting',
+                  //   start: '2021-07-04T14:30:00'
+                  // },
+                  // {
+                  //   title: 'Birthday Party',
+                  //   start: '2021-07-03T07:00:00'
+                  // },
+                  // {
+                  //   title: 'Click for Google',
+                  //   url: 'http://google.com/',
+                  //   start: '2021-07-02'
+                  // }
+                //]    
+            //});
+        
+            
+        
+
+        document.addEventListener('DOMContentLoaded', calendar.render());
+
+    </script>
+  </head>
+  <body>
+    <div id='calendar'>
+        <h1>Loading</h1>
+    </div>
+  </body>
+</html>
